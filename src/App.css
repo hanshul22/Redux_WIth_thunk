@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.main{
+  background-color: aquamarine;
+}
+
+.main:hover{
+  background-color: cadetblue;
+  border-radius: 20px;
+}
+
+
+
+
+
